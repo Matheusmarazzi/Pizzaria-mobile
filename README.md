@@ -3,10 +3,15 @@
 App de Cadastro da comanda para finalizar meu sistema de pizzaria.
 habilidades:
 -Telas responsivas para manter o mesmo tamanho em diversos dispositivos movéis.
+
 -Biblioteca axios para realizar as requisições HTTP.
+
 -Permanecer login usando a biblioteca Async Storage e armazenando os dados necessarios.
+
 -Icones nativos do Expo.
+
 -Usando stack navigantion para navegar entre telas de forma 'cascata'.
+
 telas:
 
 
