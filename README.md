@@ -12,6 +12,9 @@ habilidades:
 
 -Usando stack navigantion para navegar entre telas de forma 'cascata'.
 
+Link do frontend do projeto: https://github.com/Matheusmarazzi/Pizzaria_FrontEnd
+Link do backend do projeto: https://github.com/Matheusmarazzi/Backend-pizzaria
+
 telas:
 
 
